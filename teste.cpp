@@ -3,7 +3,8 @@
 using namespace std;
 
 int main(){
-    int a;
+    int a,b;
     cin>>a;
-    cout<<a<<endl;
+    b=a*a;
+    cout<<b<<endl;
 }
